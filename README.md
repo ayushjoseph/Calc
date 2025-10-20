@@ -1,4 +1,4 @@
-Calc
+Calc 
 
 A Modern Android Calculator Calculy is a sleek and functional calculator application for Android, built from the ground up to demonstrate modern, professional-grade development practices. This project utilizes a native stack with Kotlin and Jetpack Compose, showcasing a clean, declarative UI and a robust, state-driven architecture. It serves as a strong portfolio piece, highlighting the ability to build polished and maintainable apps using the latest industry standards, providing a clear example of current Android development workflows.
 
